@@ -1,0 +1,15 @@
+{
+    "name": "UnityGaneFranework.Runtime",
+    "references": [
+        "GUID:53d07f51418115847996426ab2ec2280"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
