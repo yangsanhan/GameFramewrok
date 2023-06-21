@@ -1,8 +1,8 @@
 {
     "name": "UnityGameFramework.Editor",
     "references": [
-        "GUID:53d07f51418115847996426ab2ec2280",
-        "GUID:74efabf452b00c14a82942d0ced07807"
+        "GUID:74efabf452b00c14a82942d0ced07807",
+        "GUID:53d07f51418115847996426ab2ec2280"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
