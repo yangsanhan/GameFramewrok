@@ -34,6 +34,7 @@ namespace UnityGameFramework.Runtime
             base.Awake();
 
             InitTextHelper();
+            InitLogHelper();
         }
 
         private void Update()
